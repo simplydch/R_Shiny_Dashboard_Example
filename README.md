@@ -74,8 +74,8 @@ Follow these steps to get the app running on your local machine:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/simplydchR_Shiny_Dashboard_Example.git
-    cd UPDATE
+    git clone https://github.com/simplydch/R_Shiny_Dashboard_Example.git
+    cd R_Shiny_Dashboard_Example
     ```
 
 2. **Install required packages:**
